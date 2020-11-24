@@ -1,0 +1,56 @@
+body{
+  padding: 0;
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+.btn{
+  display: block;
+  background: #FF8B37;
+  border-radius: 12px;
+  outline: none;
+  border: none;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  text-align: center;
+  color: #fff;
+  outline: none;
+  text-decoration: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.btn:hover{
+  background: #FFAC70;
+}
+
+.hide{
+  display: none;
+}
+
+.show{
+  display: flex;
+}
+
+button{
+  outline: none;
+}
+
+/* media query */
+@media(max-width:1900px){
+  .hide, .show{
+    display: flex;
+  }
+}
+
+@media(max-width:800px){
+  .hide{
+    display: none;
+  }
+  
+  .show{
+    display: flex;
+  }
+}
