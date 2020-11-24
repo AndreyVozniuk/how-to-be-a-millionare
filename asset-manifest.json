@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/how-to-be-a-millionare/static/css/main.2ca55f5e.chunk.css",
+    "main.js": "/how-to-be-a-millionare/static/js/main.eb840c2a.chunk.js",
+    "main.js.map": "/how-to-be-a-millionare/static/js/main.eb840c2a.chunk.js.map",
+    "runtime-main.js": "/how-to-be-a-millionare/static/js/runtime-main.06b19de8.js",
+    "runtime-main.js.map": "/how-to-be-a-millionare/static/js/runtime-main.06b19de8.js.map",
+    "static/js/2.8002819d.chunk.js": "/how-to-be-a-millionare/static/js/2.8002819d.chunk.js",
+    "static/js/2.8002819d.chunk.js.map": "/how-to-be-a-millionare/static/js/2.8002819d.chunk.js.map",
+    "index.html": "/how-to-be-a-millionare/index.html",
+    "static/css/main.2ca55f5e.chunk.css.map": "/how-to-be-a-millionare/static/css/main.2ca55f5e.chunk.css.map",
+    "static/js/2.8002819d.chunk.js.LICENSE.txt": "/how-to-be-a-millionare/static/js/2.8002819d.chunk.js.LICENSE.txt",
+    "static/media/Quiz.css": "/how-to-be-a-millionare/static/media/answer-border_wrong.7ec6e0cc.svg",
+    "static/media/hand.07336cca.svg": "/how-to-be-a-millionare/static/media/hand.07336cca.svg",
+    "static/media/Score.css": "/how-to-be-a-millionare/static/media/score-border_inactive.40f08e84.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06b19de8.js",
+    "static/js/2.8002819d.chunk.js",
+    "static/css/main.2ca55f5e.chunk.css",
+    "static/js/main.eb840c2a.chunk.js"
+  ]
+}
